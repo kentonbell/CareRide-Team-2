@@ -6,6 +6,7 @@ Other 4D cycle badges
 ![Discern](https://badgen.net/badge/stage/discern/gray)
 ![Develop](https://badgen.net/badge/stage/develop/blue)
 ![Demonstrate](https://badgen.net/badge/stage/demonstrate/green)
+![Discover](https://badgen.net/badge/stage/discover/orange)
 -->
 
 
@@ -14,7 +15,7 @@ Other 4D cycle badges
 
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue)
-![Discover](https://badgen.net/badge/stage/discover/orange)
+![Demonstrate](https://badgen.net/badge/stage/demonstrate/green)
 
 
 
