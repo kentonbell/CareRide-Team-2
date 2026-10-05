@@ -15,7 +15,7 @@ Other 4D cycle badges
 
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue)
-![Demonstrate](https://badgen.net/badge/stage/demonstrate/green)
+![Demonstrate](https://badgen.net/badge/stage/demonstrate/blue)
 
 
 
